@@ -304,7 +304,10 @@ margin-top: 50px; /* Отступ сверху */
     border-radius: 25px;
     margin-top: 15px;
     align-self: flex-start;
+    border-color: black;
+    border-radius: 10px;
 }
+
 
 .contacts-container {
     padding: 40px;
