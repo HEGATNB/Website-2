@@ -317,3 +317,13 @@ margin-top: 50px; /* Отступ сверху */
     flex-direction: column;
     gap: 25px; 
 }
+
+.page-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+        
+.main {
+    flex: 1;
+}
